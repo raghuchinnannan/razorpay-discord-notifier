@@ -35,8 +35,9 @@ cd razorpay-discord-notifier
 ```
 
 ### 2. Install Wrangler
-```bash
 Wrangler is Cloudflare’s CLI tool.
+```bash
+npm install -g wrangler
 ```
 ### 3. Configure Secrets
 
