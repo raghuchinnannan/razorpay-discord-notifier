@@ -1,0 +1,11 @@
+name = "razorpay-discord-worker"
+main = "worker.js"
+compatibility_date = "2025-08-17"
+
+# You can set the route if deploying to your own domain
+# routes = [
+#   { pattern = "webhook.yourdomain.com/*", zone_id = "your-zone-id" }
+# ]
+
+[vars]
+# You can define default environment variables here if needed or use the CLI or use the UI to add env
